@@ -1,8 +1,6 @@
 # Hi there! 👋 I’m Faizal Lutfi  
 ### 🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast  
 
-<img align="right" src="https://github-readme-stats-nine-kohl-77.vercel.app/api?username=ABCDullahh&show_icons=true&theme=radical" width="400"/>
-
 **Welcome to my digital playground!** 🎢 I love exploring the world of data, solving problems with code, and building meaningful solutions. Whether it's crunching numbers or crafting scalable backend systems, I am passionate about transforming complex challenges into elegant solutions.
 
 ---
@@ -32,8 +30,7 @@
 
 ---
 
-### 📈 GitHub Stats & Streak  
-![GitHub Stats](https://github-readme-stats-nine-kohl-77.vercel.app/api?username=ABCDullahh&show_icons=true&theme=radical)
+### 📈 GitHub
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABCDullahh&theme=radical)  
 ![Top Languages](https://github-readme-stats-nine-kohl-77.vercel.app/api/top-langs/?username=ABCDullahh&layout=compact&theme=radical)
 
@@ -42,7 +39,6 @@
 
 ### 🔥 Highlight Projects  
 Here are some projects that I am particularly proud of:  
-https://github.com/ABCDullahh/TELCO-Customer-Churn-Model-Prediction
 - 📊 **[TELCO-Customer-Churn-Model-Prediction](https://github.com/ABCDullahh/TELCO-Customer-Churn-Model-Prediction):**  A machine learning-based solution to predict customer churn for Telco Company, outperforming their rule-based method. Key metrics include F2-Score to prioritize recall and AUC-ROC for model evaluation. The project utilizes algorithms such as Gradient Boost, RandomForest, XGBoost, CatBoost, and more, with an emphasis on identifying critical churn factors to improve customer retention.
 - 🌎 **[NYC TLC Trip Analysis](https://github.com/username/TLC-Trip-Analysis):** An in-depth data analysis and visualization project on New York’s taxi trips.  
 - 🚀 **[AbsenIN](https://github.com/rizal5516/AbsenIn):** A web-based attendance management system that calculates salaries based on employee performance.  
