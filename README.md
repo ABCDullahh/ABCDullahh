@@ -57,7 +57,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
    - Utilizes Gradient Boost, RandomForest, XGBoost, CatBoost, and more
    - Focuses on identifying critical churn factors for improved customer retention
 
-2. **[NYC TLC Trip Analysis](https://github.com/username/TLC-Trip-Analysis)**
+2. **[NYC TLC Trip Analysis](https://github.com/ABCDullahh/NYC-TLC-Trip-Records-Analysis)**
    - In-depth data analysis and visualization project on New York's taxi trips
 
 3. **[AbsenIN](https://github.com/rizal5516/AbsenIn)**
