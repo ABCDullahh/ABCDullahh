@@ -30,7 +30,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E97A1?style=for-the-badge&logoColor=white)
 
 #### Visualization & Analysis
-![Tableau]
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ---
