@@ -20,7 +20,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 #### Frameworks & Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -51,7 +51,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 
 ### 🔥 Highlight Projects
 
-1. **[TELCO-Customer-Churn-Model-Prediction](https://github.com/ABCDullahh/TELCO-Customer-Churn-Model-Prediction)**
+1. **[TELCO Customer Churn Model Prediction](https://github.com/ABCDullahh/TELCO-Customer-Churn-Model-Prediction)**
    - A machine learning-based solution to predict customer churn for Telco Company
    - Outperforms rule-based methods using F2-Score and AUC-ROC metrics
    - Utilizes Gradient Boost, RandomForest, XGBoost, CatBoost, and more
