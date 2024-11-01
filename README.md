@@ -39,8 +39,6 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-nine-kohl-77.vercel.app/api?username=ABCDullahh&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABCDullahh&theme=radical)
 
 ![Top Languages](https://github-readme-stats-nine-kohl-77.vercel.app/api/top-langs/?username=ABCDullahh&layout=compact&theme=radical)
