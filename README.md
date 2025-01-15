@@ -45,22 +45,6 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 
 </div>
 
----
-
-### 🔥 Highlight Projects
-
-1. **[TELCO Customer Churn Model Prediction](https://github.com/ABCDullahh/TELCO-Customer-Churn-Model-Prediction)**
-   - A machine learning-based solution to predict customer churn for Telco Company
-   - Outperforms rule-based methods using F2-Score and AUC-ROC metrics
-   - Utilizes Gradient Boost, RandomForest, XGBoost, CatBoost, and more
-   - Focuses on identifying critical churn factors for improved customer retention
-
-2. **[NYC TLC Trip Analysis](https://github.com/ABCDullahh/NYC-TLC-Trip-Records-Analysis)**
-   - In-depth data analysis and visualization project on New York's taxi trips
-
-3. **[AbsenIN](https://github.com/rizal5516/AbsenIn)**
-   - Web-based attendance management system
-   - Calculates salaries based on employee performance
 
 ---
 
