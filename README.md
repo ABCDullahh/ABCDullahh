@@ -1,62 +1,91 @@
-# Hi there! 👋 I'm Faizal Lutfi
+# Hi, I'm Faizal Lutfi 👋
 
-## 🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast
+### AI Software Engineer • LLM Orchestration • Fullstack AI • Production Systems
 
-Welcome to my digital playground! 🎢 I love exploring the world of data, solving problems with code, and building meaningful solutions. Whether it's crunching numbers or crafting scalable backend systems, I am passionate about transforming complex challenges into elegant solutions.
+I build AI-powered software with a focus on reliability, scalability, and clean engineering—turning complex requirements into maintainable systems that deliver measurable impact.
 
----
-
-### 🌱 What I'm Up To
-
-- 🧠 Currently diving deep into **Data Science and Machine Learning**
-- 🤝 Open to collaborations on **Data Analytics, ML & AI projects**
-- 💡 Always on the lookout for **innovative solutions** and **new learning experiences**
-- 💬 Feel free to ask me about **Python, SQL, and Backend Development**
-- 📧 Let's connect: [faizal2jz@gmail.com](mailto:faizal2jz@gmail.com)
-
----
-
-### 🛠️ My Favorite Tools & Technologies
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-
-#### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-001E1A?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E97A1?style=for-the-badge&logoColor=white)
-
-#### Visualization & Analysis
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+<p>
+  <a href="mailto:faizal2jz@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-faizal2jz%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/faizallutfiyt/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-faizallutfiyt-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats & Streak
+## Now
+- Shipping production AI features (LLM orchestration, evaluation, performance testing)
+- Building reliable backend systems and automation pipelines with strong engineering practices
+
+## Principles
+- Evidence over hype (measure → test → iterate)
+- Reliability first (performance, observability, CI/CD)
+- Maintainable systems (clean architecture, docs, readable code)
+
+---
+
+## Tech Stack
+
+### Core
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="34" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="PHP" />
+</p>
+
+### Backend / Data
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="34" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="34" alt="Redis" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="TailwindCSS" />
+</p>
+
+### DevOps / Platform
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="34" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="34" alt="Helm" />
+  <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" height="34" alt="Azure DevOps" />
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow" />
+</p>
+
+<p>
+  <img alt="k6" src="https://img.shields.io/badge/k6-Load%20Testing-7D64FF?style=flat-square&logo=k6&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-E2E%20Testing-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</p>
+
+---
+
+## Notes
+- 📌 Check my **pinned repositories** for the best examples of my work.
+
+<details>
+<summary><b>GitHub Streak</b></summary>
+
+<br/>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABCDullahh&theme=radical)
-
-![Top Languages](https://github-readme-stats-nine-kohl-77.vercel.app/api/top-langs/?username=ABCDullahh&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABCDullahh)
 
 </div>
 
-
----
-
-### 🤝 Let's Connect and Collaborate!
-
-I believe in the power of collaboration and knowledge-sharing. Let's connect and explore new opportunities together:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizallutfiyt/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://faizal-abcdullah.com/)
-
----
-
-### ✨✨✨ 
-
-**I'm powered by caffeine and curiosity!** ☕ I love diving into challenging projects and learning new things every day!
+</details>
