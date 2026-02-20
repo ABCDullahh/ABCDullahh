@@ -1,6 +1,4 @@
-# Hi, I'm Faizal Lutfi 👋
-
-### AI Software Engineer • LLM Orchestration • Fullstack AI • Production Systems
+## AI Software Engineer • LLM Orchestration • Fullstack AI • Production Systems
 
 I build AI-powered software with a focus on reliability, scalability, and clean engineering—turning complex requirements into maintainable systems that deliver measurable impact.
 
@@ -12,17 +10,6 @@ I build AI-powered software with a focus on reliability, scalability, and clean 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-faizallutfiyt-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </p>
-
----
-
-## Now
-- Shipping production AI features (LLM orchestration, evaluation, performance testing)
-- Building reliable backend systems and automation pipelines with strong engineering practices
-
-## Principles
-- Evidence over hype (measure → test → iterate)
-- Reliability first (performance, observability, CI/CD)
-- Maintainable systems (clean architecture, docs, readable code)
 
 ---
 
